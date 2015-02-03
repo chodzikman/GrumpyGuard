@@ -1,3 +1,16 @@
+This is a little fork of i3lock, it provides very simple installation script (run with 
+administrator permisions) and background image.
+
+How to install?
+$ make all
+# ./install.sh
+
+How to run?
+grumpyg
+
+How to use?
+Just bind it to any key combination in your wm!
+
 i3lock - improved screen locker
 ===============================
 i3lock is a simple screen locker like slock. After starting it, you will
