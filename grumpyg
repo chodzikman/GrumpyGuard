@@ -1,3 +1,3 @@
 #!/usr/bin/sh
 
-exec ./i3lock -i /usr/share/grumpyg/grumpywall.png
+exec i3lock_grumpy -i /usr/share/grumpyg/grumpywall.png
